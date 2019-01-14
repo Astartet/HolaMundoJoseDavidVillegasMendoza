@@ -1,6 +1,6 @@
 @body {
-  background-color: black;
+  background-color: #a7fefe;
 }
-table {
+@table {
   border: 5px black solid;
 }
